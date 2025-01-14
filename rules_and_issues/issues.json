@@ -1,0 +1,213 @@
+[
+    {
+        "id": 1,
+        "items": [
+            "perifrasi",
+            "termini desueti",
+            "locuzione",
+            "molte perifrasi",
+            "cirumlocuzioni",
+            "inutili perifrasi",
+            "sintassi contorta",
+            "locuzioni",
+            "cirumlocuzione",
+            "lessico",
+            "lessico ricercato"
+        ],
+        "title": "giri di parole antichi.",
+        "keywords": [
+            "perifrasi",
+            "lessico"
+        ]
+    },
+    {
+        "id": 3,
+        "items": [
+            "termini tecnici",
+            "termine tecnico",
+            "lessico tecnico del diritto",
+            "lessico tecnico",
+            "termine tecnico privo di equivalente",
+            "linguaggio tecnico dell'economia"
+        ],
+        "title": "linguaggio tecnico e specifico",
+        "keywords": [
+            "tecnico",
+            "lessico"
+        ]
+    },
+    {
+        "id": 4,
+        "items": [
+            "latinismo",
+            "latinismi",
+            "anglismi"
+        ],
+        "title": "espressioni linguistiche di derivazione latina e inglese.",
+        "keywords": [
+            "anglismi",
+            "latinismi"
+        ]
+    },
+    {
+        "id": 5,
+        "items": [
+            "espressioni nominali",
+            "subordinata implicita",
+            "passivi",
+            "frasi subordinate implicite",
+            "stile nominale",
+            "passivo"
+        ],
+        "title": "forme passive ed implicite",
+        "keywords": [
+            "passivi",
+            "passivo"
+        ]
+    },
+    {
+        "id": 14,
+        "items": [
+            "ordini marcati",
+            "ordini dei costituenti non prototipici",
+            "ordine marcato"
+        ],
+        "title": "ordini non standard evidenziati",
+        "keywords": [
+            "ordini",
+            "marcati"
+        ]
+    },
+    {
+        "id": 15,
+        "items": [
+            "periodo complesso"
+        ],
+        "title": "fase complicata, ma temporanea",
+        "keywords": [
+            "complesso",
+            "periodo"
+        ]
+    },
+    {
+        "id": 6,
+        "items": [
+            "espressioni verbali complesse (decreta la sospensione, dispone la sospensione)",
+            "frase scissa",
+            "spezzare frasi lunghe",
+            "frase lunga",
+            "locuzioni verbali",
+            "frasi lunghe"
+        ],
+        "title": "sospensione decisa, frasi divise.",
+        "keywords": [
+            "frase",
+            "frasi"
+        ]
+    },
+    {
+        "id": 9,
+        "items": [
+            "forse manca qualcosa"
+        ],
+        "title": "qualcosa potrebbe essere mancante.",
+        "keywords": [
+            "forse",
+            "manca"
+        ]
+    },
+    {
+        "id": 12,
+        "items": [
+            "incisi",
+            "inciso"
+        ],
+        "title": "\"taglio profondo, segno permanente\"",
+        "keywords": [
+            "incisi",
+            "inciso"
+        ]
+    },
+    {
+        "id": 11,
+        "items": [
+            "primo capoverso oscuro"
+        ],
+        "title": "inizio enigmatico, chiaro finale",
+        "keywords": [
+            "capoverso",
+            "oscuro"
+        ]
+    },
+    {
+        "id": 7,
+        "items": [
+            "si tratta di paragrafi collegati a un paragrafo precedente che elenca i compiti della polizia locale",
+            "non chiaro come questo paragrafo si collega al precedente"
+        ],
+        "title": "collegamento poco chiaro tra paragrafi.",
+        "keywords": [
+            "paragrafo",
+            "precedente"
+        ]
+    },
+    {
+        "id": 2,
+        "items": [
+            "molti nomi d'azione",
+            "acronimi",
+            "evitare astratti e nomi d'azione",
+            "acronimo"
+        ],
+        "title": "scegli azioni, evita astratti e acronimi.",
+        "keywords": [
+            "acronimi",
+            "acronimo"
+        ]
+    },
+    {
+        "id": 10,
+        "items": [
+            "lunghezze"
+        ],
+        "title": "\"variazioni di dimensioni e misure\"",
+        "keywords": [
+            "lunghezze"
+        ]
+    },
+    {
+        "id": 13,
+        "items": [
+            "termini burocratici",
+            "locuzioni burocratiche",
+            "lessico burocratico"
+        ],
+        "title": "linguaggio burocratico impersonale e complesso",
+        "keywords": [
+            "burocratiche",
+            "burocratici"
+        ]
+    },
+    {
+        "id": 16,
+        "items": [
+            "i pilastri sembrano 5 e non 6"
+        ],
+        "title": "\"pilastri sono solo cinque.\"",
+        "keywords": [
+            "non",
+            "pilastri"
+        ]
+    },
+    {
+        "id": 8,
+        "items": [
+            "ripetere il soggetto"
+        ],
+        "title": "ripetere il soggetto",
+        "keywords": [
+            "il",
+            "ripetere"
+        ]
+    }
+]

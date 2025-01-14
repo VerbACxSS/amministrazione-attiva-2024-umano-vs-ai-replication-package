@@ -1,0 +1,193 @@
+[
+    {
+        "id": 1,
+        "items": [
+            "perifrasi",
+            "locuzione",
+            "molte perifrasi",
+            "cirumlocuzioni",
+            "inutili perifrasi",
+            "locuzioni",
+            "cirumlocuzione",
+            "espressioni verbali complesse (decreta la sospensione, dispone la sospensione)",
+            "locuzioni verbali"
+        ],
+        "title": "perifrasi",
+        "keywords": [
+            "perifrasi",
+            "lessico"
+        ]
+    },
+    {
+        "id": 2,
+        "items": [
+            "acronimi",
+            "acronimo"
+        ],
+        "title": "acronimi",
+        "keywords": [
+            "acronimi",
+            "acronimo"
+        ]
+    },
+    {
+        "id": 3,
+        "items": [
+            "termini tecnici",
+            "termine tecnico",
+            "lessico tecnico del diritto",
+            "lessico tecnico",
+            "termine tecnico privo di equivalente",
+            "linguaggio tecnico dell'economia"
+        ],
+        "title": "linguaggio tecnico",
+        "keywords": [
+            "tecnico",
+            "lessico"
+        ]
+    },
+    {
+        "id": 4,
+        "items": [
+            "latinismo",
+            "latinismi",
+            "anglismi"
+        ],
+        "title": "latinismi e anglismi",
+        "keywords": [
+            "anglismi",
+            "latinismi"
+        ]
+    },
+    {
+        "id": 5,
+        "items": [
+            "espressioni nominali",
+            "stile nominale"
+        ],
+        "title": "forme nominali",
+        "keywords": [
+            "passivi",
+            "passivo"
+        ]
+    },
+    {
+        "id": 6,
+        "items": [
+            "spezzare frasi lunghe",
+            "frase lunga",
+            "frasi lunghe",
+            "lunghezze"
+        ],
+        "title": "frasi lunghe",
+        "keywords": [
+            "frase",
+            "frasi"
+        ]
+    },
+    {
+        "id": 7,
+        "items": [
+            "molti nomi d'azione",
+            "evitare astratti e nomi d'azione"
+        ],
+        "title": "nomi d'azione",
+        "keywords": [
+            "paragrafo",
+            "precedente"
+        ]
+    },
+    {
+        "id": 8,
+        "items": [
+            "ripetere il soggetto",
+            "primo capoverso oscuro",
+            "i pilastri sembrano 5 e non 6",
+            "forse manca qualcosa",
+            "si tratta di paragrafi collegati a un paragrafo precedente che elenca i compiti della polizia locale",
+            "non chiaro come questo paragrafo si collega al precedente"
+        ],
+        "title": "mancano informazioni",
+        "keywords": [
+            "forse",
+            "manca"
+        ]
+    },
+    {
+        "id": 9,
+        "items": [
+            "subordinata implicita",
+            "frasi subordinate implicite"
+        ],
+        "title": "subordinate implicite",
+        "keywords": [
+            "lunghezze"
+        ]
+    },
+    {
+        "id": 10,
+        "items": [
+            "passivi",
+            "passivo"
+        ],
+        "title": "passivo",
+        "keywords": [
+            "capoverso",
+            "oscuro"
+        ]
+    },
+    {
+        "id": 11,
+        "items": [
+            "incisi",
+            "inciso"
+        ],
+        "title": "incisi",
+        "keywords": [
+            "incisi",
+            "inciso"
+        ]
+    },
+    {
+        "id": 12,
+        "items": [
+            "lessico",
+            "lessico ricercato",
+            "termini desueti",
+            "termini burocratici",
+            "locuzioni burocratiche",
+            "lessico burocratico"
+        ],
+        "title": "lessico burocratico o arcaico",
+        "keywords": [
+            "burocratiche",
+            "burocratici"
+        ]
+    },
+    {
+        "id": 13,
+        "items": [
+            "ordini marcati",
+            "ordini dei costituenti non prototipici",
+            "ordine marcato",
+            "frase scissa"
+        ],
+        "title": "ordini marcati",
+        "keywords": [
+            "ordini",
+            "marcati"
+        ]
+    },
+    {
+        "id": 14,
+        "items": [
+            "periodo complesso",
+            "sintassi contorta"
+        ],
+        "title": "frase complessa",
+        "keywords": [
+            "complesso",
+            "periodo"
+        ]
+    }
+]
