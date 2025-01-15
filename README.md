@@ -20,6 +20,7 @@ La prima parte del contributo discute le differenze tra operazioni di semplifica
 * `3_metrics_visuals.ipynb`: jupyter notebook used to draw some visuals about metrics.
 * `4_issues_rules_taxonomy.ipynb`: jupyter notebook used to perform clustering on issues and rules.
 * `5_issues_rules_visualization_and_comparison.ipynb`: jupyter notebook used to draw some visuals about issues and rules.
+* `automatic_simplification.py`: script used to automatically simplify the `original` corpus with OpenAI `gpt4` model.
 * `create_human_pdfs.py`: script used to create human-readable `.pdf`.
 
 ## Acknowledgements
