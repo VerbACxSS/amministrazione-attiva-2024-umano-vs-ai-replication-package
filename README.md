@@ -10,6 +10,18 @@ Il contributo discute in che modo sono tenute in conto le diverse istruzioni per
 
 La prima parte del contributo discute le differenze tra operazioni di semplificazione e operazioni di sintesi realizzate con il supporto dell'intelligenza artificiale. Nella seconda parte si presentano i risultati del confronto tra le operazioni automatiche e quelle realizzate manualmente. Le conclusioni si soffermano criticamente sull'affidabilità delle operazioni automatiche.
 
+## Setup
+Create a virtual environment
+```sh
+python3 -m venv venv
+source venv/bin/activate
+```
+
+Install dependencies
+```sh
+pip install -r requirements.txt
+```
+
 ## Replication Package Content
 * `corpora`: folder that contains the `original`, `gpt4`, `reviewer1` and `reviewer2` corpora analyzed in `.csv` format.
 * `corpora_with_metrics`: folder that contains the corpora analyzed with the metrics extracted in `.csv` and `.json` format.
